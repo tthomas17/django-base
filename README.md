@@ -19,8 +19,8 @@ django starter project setup with static and template files. Includes first view
 12. Rename project ``` mv django-base <newProject> ```
 13. Install django >  ``` pip install django ```
 14. go back to parent directory ``` cd .. ```
-15. open project in sublime (if setup) sublime src
-16. In Sublime Find and replace djangoBase with your preferred project name  > **Command + Shift + F**
+15. open project in sublime (if setup) ```sublime src```
+16. In Sublime Find and replace djangoBase with your preferred project name  > ```Command + Shift + F```
 17. Open README.md and update to reflect your new project
 18. Using Terminal  navigate back into src directory  ``` cd src ```
 19. Setup git:
