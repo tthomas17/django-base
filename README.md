@@ -2,6 +2,9 @@
 
 django starter project setup with static and template files. Includes first view, urlpattern, and custom css file. 
 
+
+##Steps to clone django-base and setup a new repo on GitHub using the Terminal on Mac
+
 1. Navigate to the directory where you want to keep your project (i.e Desktop)
 2. Setup a new Virtual Environment     ``` virtualenv <envName> ```
 3. Change into your Virtual Environment Directory   ``` cd <envName> ```
