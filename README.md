@@ -19,7 +19,7 @@ $ source bin/activate
 ``` $ rm -fr .git ```
 5. Rename project
  ``` $ mv djangoBase <newProject> ```
-6. Install django
+6. Install Requirements
 ``` $ pip install django ```
 7. go back to parent directory
 ``` $ cd .. ```
