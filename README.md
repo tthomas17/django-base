@@ -31,7 +31,9 @@ $ source bin/activate
 11. Using Terminal  navigate back into src directory
 ``` $ cd src ```
 
-12. ```
+12. Add Datebase
+
+```
     $ python manage.py migrate
     $ python manage.py createsuperuser
      ```
