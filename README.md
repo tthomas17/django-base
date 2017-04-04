@@ -33,7 +33,7 @@ $ source bin/activate
 
 12. Add Datebase
 
-```
+    ```
     $ python manage.py migrate
     $ python manage.py createsuperuser
      ```
