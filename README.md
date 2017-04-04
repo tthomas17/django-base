@@ -20,7 +20,7 @@ $ source bin/activate
 5. Rename project
  ``` $ mv djangoBase <newProject> ```
 6. Install Requirements
-``` $ pip install django ```
+``` $ pip install requirements.txt ```
 7. go back to parent directory
 ``` $ cd .. ```
 8. open project in sublime (if setup)
